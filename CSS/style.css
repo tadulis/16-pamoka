@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+    margin: 0;
+    color: #21252;
+}
+
+.small {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.main-nav {
+    background-color: #7d71d3;
+}
+.bg-1 {
+    background: url("http://demo.themefisher.com/themefisher/lifetrakr/images/backgrounds/banner-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.banner {
+    padding: 170px 0 145px;
+}
+
+.app-badge {
+
+}
